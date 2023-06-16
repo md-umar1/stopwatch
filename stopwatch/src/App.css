@@ -1,0 +1,33 @@
+body{
+  background-color:snow;
+}
+.time{
+background-color:tomato;
+block-size: 100px;
+color:yellow;
+font-weight: bold;  
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: block;
+border-radius: 0.25rem ;
+margin-left: 44.8%;
+margin-right: 44%;
+}
+.txt1{
+  color:chartreuse;
+  margin-left: 45%;
+}
+.sw{
+  block-size: 100px;
+color: yellow;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: blue;
+  display: block;
+  border-radius: 0.25rem;
+  margin-left: 44.8%;
+  margin-right: 44%;
+}
+.txtsw{
+  margin-left:45%;
+  color: chartreuse;
+}
